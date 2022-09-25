@@ -1,0 +1,20 @@
+{
+  "name": "aseprite-stable-pl",
+  "displayName":"Polish Translation of Aseprite Stable",
+  "description": "",
+  "version": "1.2.40",
+  "author": {
+	"name": "PxSprite",
+    "email": "pyroghost@tuta.io",
+    "url": "https://github.com/PxSprite/aseprite-stable-pl"
+  },
+  "contributors":[],
+  "publisher": "PxSprite",
+  "license": "gpl-3.0",
+  "categories": [ "Languages" ],
+  "contributes": {
+    "languages": [
+	  { "id": "pl", "path": "./pl.ini"}
+	]
+  }
+}
